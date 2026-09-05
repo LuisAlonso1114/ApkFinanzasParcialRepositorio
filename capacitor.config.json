@@ -1,0 +1,12 @@
+{
+  "appId": "co.edu.estudiante.balance",
+  "appName": "Balance",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
